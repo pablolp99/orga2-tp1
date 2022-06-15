@@ -1,0 +1,14 @@
+customTests
+src/testing
+salida.propios.caso1.txt
+salida.propios.caso2.txt
+salida.customTests.txt
+salida.catedra.array.caso1.txt
+.gdb_history
+*.o
+game
+main
+tester
+gameResultArray.txt
+gameResultList.txt
+salida.propios.caso3.txt
