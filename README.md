@@ -6,4 +6,4 @@ TP1 Orga2
 
 Integrantes:
  - Pablo Lopes Perera
- - Joaquin Naftaly
+ - Joaquin Naftaly (@joaconafta)
